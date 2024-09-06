@@ -14,6 +14,8 @@
 
 - 💬 Ask me about **Anything you all like 👍**
 
+- 📫 How to reach me **ayyanali0809@gmail.com**
+
 - ⚡ Fun fact **I can make you laugh😅**
 
 <h3 align="left">Connect with me:</h3>
