@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full stack developing**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/md-ayyan-ali-b681b9276](www.linkedin.com/in/md-ayyan-ali-b681b9276)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/md-ayyan-ali-b681b9276/](https://www.linkedin.com/in/md-ayyan-ali-b681b9276/)
 
 - 💬 Ask me about **Anything you all like 👍**
 
