@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-ayyan-ali&show_icons=true&locale=en&layout=compact" alt="md-ayyan-ali" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-ayyan-ali&show_icons=true&locale=en" alt="md-ayyan-ali" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-yyan-ali&" alt="md-ayyan-ali" /></p>
